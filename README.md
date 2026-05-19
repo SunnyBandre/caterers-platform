@@ -42,8 +42,7 @@ caterers-platform/
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
-│   ├── server.js
-│   └── .env
+│   └──  server.js
 │
 ├── frontend/
 │   ├── app/
